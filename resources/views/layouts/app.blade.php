@@ -18,7 +18,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
     <div class="container">
-        <a class="navbar-brand" href="{{ url('/') }}">University Events</a>
+        <a class="navbar-brand" href="{{ url('/calendar') }}">University Events</a>
         <div class="collapse navbar-collapse">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a class="nav-link" href="{{ url('/') }}">Events</a></li>
